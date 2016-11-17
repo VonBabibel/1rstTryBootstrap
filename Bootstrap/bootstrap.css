@@ -1,0 +1,11 @@
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+body {
+    background-image: url(https://images4.alphacoders.com/614/614001.jpg);
+    background-size: 100%
+}
+#cadre {
+    border-radius: 10px;
+}
